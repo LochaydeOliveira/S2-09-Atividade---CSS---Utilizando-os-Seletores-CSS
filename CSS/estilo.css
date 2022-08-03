@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(249, 249, 249);
+}
+
+
+.container {
+    font-family: 'Lato', sans-serif;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;    
+    background-color: #ffffff;
+
+}
+
+.apresentation {
+    background: #ffffff;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+
+.tituloHeader {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    font-size: 14px;
+
+}
+
+.sloganHeader {
+    font-size: 12px;
+}
+
+.seTorne {
+    color: #3662ff;
+
+}
+
+.conteudo{
+    
+
+}
+.paragrafoConteudo {
+    background-color: #3662ff;
+
+}
+.paragrafoConteudo p {
+    display: inline-block;
+    color: white;
+    font-size: 14px;
+    margin-left: 5px;
+    line-height: 25px;
+
+}
+.rodape1 {
+    display: flex;
+    background-color: black;
+    color: #ffffff;
+    justify-content: center;
+    height: 25px;
+    align-items: center;
+
+}
+.rodape2 {
+    display: flex;
+    background-color: black;
+    color: #ffffff;
+    justify-content: center;
+    height: 22px;
+    align-items: center;
+    font-size: 12px;
+
+}
